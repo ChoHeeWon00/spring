@@ -1,0 +1,2 @@
+본인의 workspace 폴더 안에 경로 => \.metadata\.sts\content\org.springframework.templates.mvc-3.2.2
+해당 위치에 파일 3개를 넣어주세요

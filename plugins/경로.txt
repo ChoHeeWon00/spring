@@ -1,0 +1,2 @@
+본인의 workspace 폴더 경로 -> \.metadata\.plugins\org.springsource.ide.eclipse.commons.content.core
+해당파일 넣어주세요
